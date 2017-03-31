@@ -1,0 +1,42 @@
+#info1, #info2, #info3, #info4 {
+    display: flex;
+    margin: 0;
+    background: #999;
+    color: white;
+    border-bottom: 1px solid white;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 70px;
+    background: #999;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 70px;
+    background: #999;
+    margin: 0;
+    color: white;
+    border-bottom: 1px solid white;
+}
+input {
+    width: 200px;
+    height: 70px;
+    background: #999;
+    color: white;
+    border: none;
+    text-align: center;
+}
